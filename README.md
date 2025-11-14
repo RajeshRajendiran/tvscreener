@@ -1,5 +1,33 @@
 <div align="center">
-  <img alt="logo tradingview screener api library" src="https://raw.githubusercontent.com/deepentropy/tvscreener/main/.github/img/logo-tradingview-screener-api.png"><br>
+  <svg xmlns="http://www.w3.org/2000/svg"
+       viewBox="0 0 130 130"
+       width="200"
+       height="200"
+       role="img"
+       aria-labelledby="title">
+    <title>Grid logo for screener API</title>
+
+    <!-- Couleur de fond optionnelle (à supprimer si tu veux du transparent) -->
+    <rect x="0" y="0" width="130" height="130" fill="#151320"/>
+
+    <!-- 3x3 grille de carrés -->
+    <g fill="#ff4b5c">
+      <!-- Ligne 1 -->
+      <rect x="10" y="10" width="30" height="30" rx="6"/>
+      <rect x="50" y="10" width="30" height="30" rx="6"/>
+      <rect x="90" y="10" width="30" height="30" rx="6"/>
+
+      <!-- Ligne 2 -->
+      <rect x="10" y="50" width="30" height="30" rx="6"/>
+      <rect x="50" y="50" width="30" height="30" rx="6"/>
+      <rect x="90" y="50" width="30" height="30" rx="6"/>
+
+      <!-- Ligne 3 -->
+      <rect x="10" y="90" width="30" height="30" rx="6"/>
+      <rect x="50" y="90" width="30" height="30" rx="6"/>
+      <rect x="90" y="90" width="30" height="30" rx="6"/>
+    </g>
+  </svg><br>
 </div>
 
 -----------------
